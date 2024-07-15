@@ -8,9 +8,7 @@ This project is a Vite application built with TypeScript and styled using Tailwi
 - [Installation](#installation)
 - [Running the App](#running-the-app)
 - [Building the App](#building-the-app)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [App Screenshots](#app-screenshots)
 
 ## Prerequisites
 
@@ -51,3 +49,19 @@ If you're using npm:
 ```sh
 npm run dev
 ```
+
+## App Screenshots
+
+You can adjust the screen size to explore various user-friendly interface layouts.
+
+- **Mobile View**
+
+  ![Mobile View](screenshots/mobileview.png)
+
+- **Tablet View**
+
+  ![Mobile View](screenshots/tabletview.png)
+
+- **Desktop View**
+
+  ![Mobile View](screenshots/desktopview.png)
